@@ -2,8 +2,8 @@
 Diabetes prediction using Machine Learning and deploying using StreamLit
 
 APP used: Anaconda
-
-          spyder
+          
+spyder
 
 command to install streamlit: pip install streamlit
 
