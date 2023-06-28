@@ -5,6 +5,7 @@ APP used: Anaconda
           spyder
 
 command to install streamlit: pip install streamlit
+
 command to install pickle : pip install dill
 
                           
