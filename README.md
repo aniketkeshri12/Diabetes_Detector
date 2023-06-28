@@ -1,2 +1,2 @@
 # Diabetes_Detector
-Diabetes prediction using Machine Learning and deploying using skilit
+Diabetes prediction using Machine Learning and deploying using StreamLit
